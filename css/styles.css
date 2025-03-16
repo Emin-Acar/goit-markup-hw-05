@@ -741,6 +741,7 @@ menu:active {
     margin: 24px;
     display: flex;
     justify-content: center;
+    border: none;
 }
 
 .button-container .send{
