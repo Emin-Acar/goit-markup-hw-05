@@ -658,7 +658,7 @@ menu:active {
     margin-top: 8px;
 }
 
-.input-group label {
+.input-group-label {
     color: #8e8f99;
     font-size: 12px;
     line-height: 14px;
@@ -690,13 +690,13 @@ menu:active {
 
 }
 
-.input-container input {
+.username {
     width: 100%;
     border: none;
     outline: none;
 }
 
-.input-group .comment{
+.comment{
     color: #8e8f99;
     width: 100%;
     resize: none;
@@ -704,7 +704,7 @@ menu:active {
     padding: 8px;
 }
 
-.input-group .comment:focus-within {
+.comment:focus-within {
     border: 1px solid #4d5ae5;
 }
 
@@ -715,21 +715,21 @@ menu:active {
     margin-top: 8px;
 }
 
-.consent-container .consent {
+.consent {
     width: 16px;
     height: 16px;
     border: 1px solid #2e2f42;
     border-radius: 2px;
 }
 
-.consent-container label {
+.consent-container-label {
     color: #8e8f99;
     font-size: 12px;
     line-height: 14px;
     letter-spacing: 4%;
 }
 
-.consent-container label a {
+.consent-label-a {
     text-decoration: underline;
     color: #4d5ae5;
     font-size: 12px;
@@ -744,7 +744,7 @@ menu:active {
     border: none;
 }
 
-.button-container .send{
+.send{
     display: block;
     margin: 0 auto;
     min-width: 169px;
